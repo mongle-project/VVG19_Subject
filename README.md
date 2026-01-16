@@ -1,6 +1,6 @@
 # 🎯 VGG19 Transfer Learning & Model Compression Project
 
-VGG19 모델의 **전이학습(Transfer Learning)** 효과를 검증하고, **모델 경량화(Model Compression)**를 통해 적은 데이터로 효율적인 이미지 분류 모델을 구축한 프로젝트입니다.
+VGG19 모델의 **전이학습(Transfer Learning)** 효과를 검증하고, **모델 경량화(Model Compression)** 를 통해 적은 데이터로 효율적인 이미지 분류 모델을 구축한 프로젝트입니다.
 
 ---
 

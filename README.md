@@ -161,15 +161,6 @@ class VGG19_Small(nn.Module):
 
 ---
 
-## 🛠️ 기술 스택
-
-- **Framework**: PyTorch
-- **Libraries**: torchvision, OpenCV, matplotlib, tqdm
-- **Environment**: Google Colab (GPU)
-
----
-
-
 ## 🎓 주요 학습 내용
 
 ### 1. 전이학습 (Transfer Learning)
@@ -188,18 +179,3 @@ class VGG19_Small(nn.Module):
 - 성능과 효율성의 트레이드오프 분석
 
 ---
-
-## 📈 향후 개선 방향
-
-- [ ] Learning Rate Scheduler 적용
-- [ ] Early Stopping 구현
-- [ ] 다른 경량화 기법 실험 (Knowledge Distillation, Pruning)
-
----
-
-
-## 👤 Author
-
-**팀-라이언일병구하기**
-- 딥러닝 모델 구현 및 최적화
-- 전이학습 효과 검증 실험
